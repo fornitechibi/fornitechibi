@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️I am security researcher<br>💻Actively participating in security code reviews
+🛡️I am security researcher<br>💻Actively participating in audit contest
 
 
 ## 🌐 Socials:
