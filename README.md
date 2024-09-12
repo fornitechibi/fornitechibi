@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️I am security researcher<br>💻Actively participating in audit contest
+🛡️I am Web3 Security Researcher <br>🏆Lead Security Researcher in Team Fortis Audits 🏰 <br> 💻Actively Participating in Audit Contest
 
 
 ## 🌐 Socials:
