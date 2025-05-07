@@ -6,15 +6,13 @@
 
 ## 🏆 Achievements
 - **10+ Months of Professional `Smart Contract Auditing Experience`**
-- Reviewed & Audited over **10,000+** Lines of Code
+- Reviewed & Audited over `10,000+` Lines of Code
 - **`13+ Critical Vulnerabilities Discovered`** - 9 High and 6 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
 
 ## 💻 Languages & Frameworks
-
-<div align="center">
 
 ### Programming Languages
 <p>
@@ -36,23 +34,22 @@
 
 ## 📊 Audit Portfolio
 
-| Project Type      | Vulnerabilities Found |          |            |    Ranks    | Platform  |
-| ----------------- | :-------------------: | :------: | :--------: | :---------: | --------- |
-|                   |       **Total**       | **High** | **Medium** | **Secured** |
-| BitVault          |           1           |    -     |     1      |     5th     | Code4rena |
-| PinkLink          |           -           |    -     |     -      |    44th     | Sherlock  |
-| Symmio            |           2           |    1     |     1      |    10th     | Sherlock  |
-| Liquid Ron        |           1           |    -     |     1      |    12th     | Code4rena |
-| Daao Contracts    |           1           |    -     |     1      |    123th    | Cantina   |
-| Aave Diva Wrapper |           -           |    -     |     -      |     9th     | CodeHawks |
-| InterPol          |           1           |    1     |     -      |    10th     | Cantina   |
-| One Project       |           1           |    -     |     1      |    12th     | CodeHawks |
-| Winnables Raffles |           1           |    1     |     -      |    35th     | Sherlock  |
-| Tadle             |           4           |    4     |     -      |    121t     | CodeHawks |
-| Zaros Part 1      |           1           |    -     |     1      |    66th     | CodeHawks |
-| Temple Gold       |           1           |    1     |     -      |    31st     | CodeHawks |
-| ThorChain         |           1           |    1     |     -      |    13th     | Code4rena |
-| **Total**         |        **15**         |  **9**   |   **6**    |             |
+| Project Type      | Vulnerabilities Found | Ranks | Platform  |
+| ----------------- | --------------------- | ----- | --------- |
+| BitVault          | 1                     | 5th   | Code4rena |
+| PinkLink          | -                     | 44th  | Sherlock  |
+| Symmio            | 2                     | 10th  | Sherlock  |
+| Liquid Ron        | 1                     | 12th  | Code4rena |
+| Daao Contracts    | 1                     | 123th | Cantina   |
+| Aave Diva Wrapper | 1                     | 9th   | CodeHawks |
+| InterPol          | 1                     | 10th  | Cantina   |
+| One Project       | 1                     | 12th  | CodeHawks |
+| Winnables Raffles | 1                     | 35th  | Sherlock  |
+| Tadle             | 4                     | 121t  | CodeHawks |
+| Zaros Part 1      | 1                     | 66th  | CodeHawks |
+| Temple Gold       | 1                     | 31st  | CodeHawks |
+| ThorChain         | 1                     | 13th  | Code4rena |
+
 
 ## 🔍 Expertise
 
