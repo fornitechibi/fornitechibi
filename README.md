@@ -7,7 +7,7 @@
 ## 🏆 Achievements
 - **10+ Months of Professional `Smart Contract Auditing Experience`**
 - Reviewed & Audited over `10,000+` Lines of Code
-- **`13+ Critical Vulnerabilities Discovered`** - 9 High and 6 Medium severity bugs identified
+- **`15+ Critical Vulnerabilities Discovered`** - 10 High and 6 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
@@ -34,8 +34,9 @@
 
 ## 📊 Audit Portfolio
 
-| Project Type      | Vulnerabilities Found | Ranks | Platform  |
+| Protocol          | Vulnerabilities Found | Ranks | Platform  |
 | ----------------- | --------------------- | ----- | --------- |
+| Yeet              | 2                     | 22nd  | Immunefi  |
 | BitVault          | 1                     | 5th   | Code4rena |
 | PinkLink          | -                     | 44th  | Sherlock  |
 | Symmio            | 2                     | 10th  | Sherlock  |
@@ -49,6 +50,7 @@
 | Zaros Part 1      | 1                     | 66th  | CodeHawks |
 | Temple Gold       | 1                     | 31st  | CodeHawks |
 | ThorChain         | 1                     | 13th  | Code4rena |
+
 
 
 ## 🔍 Expertise
