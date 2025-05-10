@@ -46,7 +46,7 @@
 | InterPol          | 1                     | 10th  | Cantina   |
 | One Project       | 1                     | 12th  | CodeHawks |
 | Winnables Raffles | 1                     | 35th  | Sherlock  |
-| Tadle             | 4                     | 121t  | CodeHawks |
+| Tadle             | 4                     | 121st  | CodeHawks |
 | Zaros Part 1      | 1                     | 66th  | CodeHawks |
 | Temple Gold       | 1                     | 31st  | CodeHawks |
 | ThorChain         | 1                     | 13th  | Code4rena |
