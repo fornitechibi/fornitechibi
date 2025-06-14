@@ -17,6 +17,7 @@
 ### Programming Languages
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-3776AB.svg?style=for-the-badge&logo=Go&logoColor=white" alt="Go" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" alt="Rust" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -51,7 +52,11 @@
 | Temple Gold       | 1                     | 31st  | CodeHawks |
 | ThorChain         | 1                     | 13th  | Code4rena |
 
+## 📈 Bug Bounties
 
+| Protocol      | Severity | Payout |
+| ------------- | -------- | ------ |
+| Flare Network | Low      | 5,000$ |
 
 ## 🔍 Expertise
 
