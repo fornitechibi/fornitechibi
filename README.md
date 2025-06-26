@@ -57,7 +57,7 @@
 
 | Protocol      | Severity | Payout |
 | ------------- | -------- | ------ |
-| Flare Network | Low      | 5,000$ |
+| [Flare Network](https://immunefi.com/profile/Bluedragon/) | Low      | 5,000$ |
 
 ## 🔍 Expertise
 
