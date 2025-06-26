@@ -55,11 +55,11 @@
 
 ## 📈 Bug Bounties
 
-| Protocol                                                  | Severity      | Payout |
-| --------------------------------------------------------- | ------------- | ------ |
-| [Flare Network](https://immunefi.com/profile/Bluedragon/) | Low           | 5,000$ |
-| [USDFC SecuredFinance](https://account.r.xyz/~Bluedragon) | Low           | 300$   |
-| [USDFC SecuredFinance](https://account.r.xyz/~Bluedragon) | Informational | 50$    |
+| Protocol                                                     | Severity      | Payout |
+| ------------------------------------------------------------ | ------------- | ------ |
+| [Flare Network](https://immunefi.com/profile/Bluedragon/)    | Low           | 5,000$ |
+| [USDFC (Secured Finance)](https://account.r.xyz/~Bluedragon) | Low           | 300$   |
+| [USDFC (Secured Finance)](https://account.r.xyz/~Bluedragon) | Informational | 50$    |
 
 ## 🔍 Expertise
 
