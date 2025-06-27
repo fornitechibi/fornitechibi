@@ -37,6 +37,7 @@
 
 | Protocol          | Vulnerabilities Found | Ranks | Platform  |
 | ----------------- | --------------------- | ----- | --------- |
+| Mezo              | 2                     | 42nd  | Cantina   |
 | Raac              | 37                    | 18th  | CodeHawks |
 | Yeet              | 2                     | 22nd  | Immunefi  |
 | BitVault          | 1                     | 5th   | Code4rena |
