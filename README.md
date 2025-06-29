@@ -73,7 +73,7 @@
 - **Static Analysis Tools:** Slither, Aderyn  
 - **Formal Verification:** Certora  
 - **EVM Understanding:** Bytecode analysis, memory layout, storage optimization  
-- **Security Frameworks:** OpenZeppelin, Chainlink  
+- **Security Frameworks:** Foundry, Hardhat, Truffle  
 - **Testing Methodologies:** Fuzzing, property-based testing, symbolic execution  
 
 ## 🏅 Contest Participation
