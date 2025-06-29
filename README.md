@@ -7,7 +7,7 @@
 ## 🏆 Achievements
 - **1 Year of Professional `Smart Contract Auditing Experience`**
 - Reviewed & Audited over `20,000+` Lines of Code
-- **`30+ Vulnerabilities Discovered`** - 20 High and 18 Medium severity bugs identified
+- **`40+ Vulnerabilities Discovered`** - 20 High and 21 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
