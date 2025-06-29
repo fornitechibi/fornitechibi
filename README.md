@@ -1,7 +1,7 @@
 # Hey 👋 I'm Shibi Kishore aka Bluedragon
 `Blockchain Security Researcher`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=BBBlockchain+Security+Researcher+%F0%9F%92%BB;Audited+20,000%2B+Lines+of+Code;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=BBBlockchain+Security+Researcher+%F0%9F%92%BB;Audited+20,000%2B+nSLOC;" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
@@ -41,7 +41,6 @@
 | Raac              | 37                    | 18th  | CodeHawks |
 | Yeet              | 2                     | 22nd  | Immunefi  |
 | BitVault          | 1                     | 5th   | Code4rena |
-| PinkLink          | -                     | 44th  | Sherlock  |
 | Symmio            | 2                     | 10th  | Sherlock  |
 | Liquid Ron        | 1                     | 12th  | Code4rena |
 | Daao Contracts    | 1                     | 123th | Cantina   |
