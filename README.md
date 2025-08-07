@@ -7,7 +7,7 @@
 ## 🏆 Achievements
 - **1 Year of Professional `Smart Contract Auditing Experience`**
 - Reviewed & Audited over `20,000+` Lines of Code
-- **`40+ Vulnerabilities Discovered`** - 20 High and 21 Medium severity bugs identified
+- **`40+ Vulnerabilities Discovered`** - 25 High and 23 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
@@ -37,6 +37,8 @@
 
 | Protocol          | Vulnerabilities Found | Ranks | Platform  |
 | ----------------- | --------------------- | ----- | --------- |
+| Flare FAssets     | 6                     | 9th   | Immunefi  |
+| Alchemix          | 4                     | 41st  | Cantina   |
 | Mezo              | 2                     | 42nd  | Cantina   |
 | Raac              | 37                    | 18th  | CodeHawks |
 | Yeet              | 2                     | 22nd  | Immunefi  |
