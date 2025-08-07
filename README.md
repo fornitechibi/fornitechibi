@@ -5,7 +5,7 @@
 </p>
 
 ## 🏆 Achievements
-- **1 Year of Professional `Smart Contract Auditing Experience`**
+- **1+ Year of Professional `Smart Contract Auditing Experience`**
 - Reviewed & Audited over `20,000+` Lines of Code
 - **`40+ Vulnerabilities Discovered`** - 25 High and 23 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
