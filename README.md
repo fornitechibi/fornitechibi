@@ -35,25 +35,25 @@
 
 ## 📊 Audit Portfolio
 
-| Protocol          | Vulnerabilities Found | Ranks | Platform  |
-| ----------------- | --------------------- | ----- | --------- |
-| Flare FAssets     | 6                     | 9th   | Immunefi  |
-| Alchemix          | 4                     | 41st  | Cantina   |
-| Mezo              | 2                     | 42nd  | Cantina   |
-| Raac              | 37                    | 18th  | CodeHawks |
-| Yeet              | 2                     | 22nd  | Immunefi  |
-| BitVault          | 1                     | 5th   | Code4rena |
-| Symmio            | 2                     | 10th  | Sherlock  |
-| Liquid Ron        | 1                     | 12th  | Code4rena |
-| Daao Contracts    | 1                     | 123th | Cantina   |
-| Aave Diva Wrapper | 1                     | 9th   | CodeHawks |
-| InterPol          | 1                     | 10th  | Cantina   |
-| One Project       | 1                     | 12th  | CodeHawks |
-| Winnables Raffles | 1                     | 35th  | Sherlock  |
-| Tadle             | 4                     | 121st | CodeHawks |
-| Zaros Part 1      | 1                     | 66th  | CodeHawks |
-| Temple Gold       | 1                     | 31st  | CodeHawks |
-| ThorChain         | 1                     | 13th  | Code4rena |
+| Protocol          | Vulnerabilities Found | Ranks | Platform  | Reports                                                                                |
+| ----------------- | --------------------- | ----- | --------- | -------------------------------------------------------------------------------------- |
+| Flare FAssets     | 6                     | 9th   | Immunefi  | -                                                                                      |
+| Alchemix          | 4                     | 41st  | Cantina   | -                                                                                      |
+| Mezo              | 2                     | 42nd  | Cantina   | -                                                                                      |
+| Raac              | 37                    | 18th  | CodeHawks | -                                                                                      |
+| Yeet              | 2                     | 22nd  | Immunefi  | -                                                                                      |
+| BitVault          | 1                     | 5th   | Code4rena | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Code4Rena/BitVault.md)    |
+| Symmio            | 2                     | 10th  | Sherlock  | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Sherlock/Symmio.md)       |
+| Liquid Ron        | 1                     | 12th  | Code4rena | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Code4Rena/LiquidRon.md)   |
+| Daao Contracts    | 1                     | 123th | Cantina   | -                                                                                      |
+| Aave Diva Wrapper | 1                     | 9th   | CodeHawks | -                                                                                      |
+| InterPol          | 1                     | 10th  | Cantina   | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Cantina/InterPol.md)      |
+| One Project       | 1                     | 12th  | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/One-Project.md) |
+| Winnables Raffles | 1                     | 35th  | Sherlock  | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Sherlock/Winnables.md)    |
+| Tadle             | 4                     | 121st | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/Tadle.md)       |
+| Zaros Part 1      | 1                     | 66th  | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/Zaros-Part1.md) |
+| Temple Gold       | 1                     | 31st  | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/TempleGold.md)  |
+| ThorChain         | 1                     | 13th  | Code4rena | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Code4Rena/ThorChain.md)   |
 
 ## 📈 Bug Bounties
 
