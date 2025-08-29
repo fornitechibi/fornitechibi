@@ -59,7 +59,8 @@
 
 | Protocol                                                     | Severity      | Payout |
 | ------------------------------------------------------------ | ------------- | ------ |
-| [Flare Network](https://immunefi.com/profile/Bluedragon/)    | Low           | 5,000$ |
+| [Private Program](https://immunefi.com/profile/Bluedragon/)  | Low           | 5,000$ |
+| [Private Program](https://immunefi.com/profile/Bluedragon/)  | Low           | 5,000$ |
 | [USDFC (Secured Finance)](https://account.r.xyz/~Bluedragon) | Low           | 300$   |
 | [USDFC (Secured Finance)](https://account.r.xyz/~Bluedragon) | Informational | 50$    |
 
