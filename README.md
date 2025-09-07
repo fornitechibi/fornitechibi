@@ -1,13 +1,13 @@
 # Hey 👋 I'm Shibi Kishore aka Bluedragon
 `Blockchain Security Researcher`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=BBBlockchain+Security+Researcher+%F0%9F%92%BB;Audited+20,000%2B+nSLOC;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=BBBlockchain+Security+Researcher+%F0%9F%92%BB;Audited+25,000%2B+nSLOC;" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
 - **1+ Year of Professional `Smart Contract Auditing Experience`**
-- Reviewed & Audited over `20,000+` Lines of Code
-- **`40+ Vulnerabilities Discovered`** - 25 High and 23 Medium severity bugs identified
+- Reviewed & Audited over `25,000+` Lines of Code
+- **`50+ Vulnerabilities Discovered`** - 27 High and 24 Medium severity bugs identified
 - **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
