@@ -5,12 +5,12 @@
 </p>
 
 ## 🏆 Achievements
-- **1+ Year of Professional `Smart Contract Auditing Experience`**
-- Reviewed & Audited over `25,000+` Lines of Code
-- **`50+ Vulnerabilities Discovered`** - 27 High and 24 Medium severity bugs identified
-- **Conducted `30+ security reviews`** on Solidity/EVM-based protocols
-- **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
-- Available for freelance, full-time audit collaborations and Private audits
+- **Over 1+ Year of Professional Experience** in Smart Contract Auditing and Blockchain Security
+- **Reviewed and Audited 25,000+ Lines of Solidity Code** across various DeFi and blockchain protocols
+- **Identified 60+ Security Vulnerabilities**, including **27 High** and **26 Medium** severity issues
+- **Performed 30+ Comprehensive Security Reviews** for EVM-compatible projects and decentralized protocols
+- **Delivered Multiple Successful Audits**, safeguarding millions in Total Value Locked (TVL)
+- **Open for Freelance, Full-Time, and Private Audit Collaborations**
 
 ## 💻 Languages & Frameworks
 
@@ -37,6 +37,8 @@
 
 | Protocol          | Vulnerabilities Found | Ranks | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ----- | --------- | -------------------------------------------------------------------------------------- |
+| USG-Tangent       | 2                     | 45th  | Sherlock  | -                                                                                      |
+| Notional Finance  | 3                     | 9th   | Sherlock  | -                                                                                      |
 | Flare FAssets     | 6                     | 9th   | Immunefi  | -                                                                                      |
 | Alchemix          | 4                     | 41st  | Cantina   | -                                                                                      |
 | Mezo              | 2                     | 42nd  | Cantina   | -                                                                                      |
