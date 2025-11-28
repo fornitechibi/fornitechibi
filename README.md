@@ -38,6 +38,7 @@
 | Protocol          | Vulnerabilities Found | Ranks | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ----- | --------- | -------------------------------------------------------------------------------------- |
 | USG-Tangent       | 2                     | 45th  | Sherlock  | -                                                                                      |
+| Plume Attackathon | 1                     | 90th  | Immunefi  | -                                                                                      |
 | Notional Finance  | 3                     | 9th   | Sherlock  | -                                                                                      |
 | Flare FAssets     | 6                     | 9th   | Immunefi  | -                                                                                      |
 | Alchemix          | 4                     | 41st  | Cantina   | -                                                                                      |
@@ -56,6 +57,7 @@
 | Zaros Part 1      | 1                     | 66th  | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/Zaros-Part1.md) |
 | Temple Gold       | 1                     | 31st  | CodeHawks | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/CodeHawks/TempleGold.md)  |
 | ThorChain         | 1                     | 13th  | Code4rena | [📋](https://github.com/fornitechibi/Audit-Reports/blob/main/Code4Rena/ThorChain.md)   |
+
 
 ## 📈 Bug Bounties
 
